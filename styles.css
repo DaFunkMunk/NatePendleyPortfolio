@@ -2,14 +2,14 @@
     --hero-bg: rgba(0,0,0,0.58);
     --page-bg: transparent;
     --accent: #64ffda;
-    --howdyDelay: 1.5s;
+    --howdyDelay: 1s;
     --traceDur: 5s;
     --fillStartFraction: 0.4;
     --fillFadeDur: 1.5s;
     --statementGap: 1s;
     --howdyFadeDur: 0.6s;
     --nameFadeDur: 0.8s;
-    --nameHold: 1.2s;
+    --nameHold: 1s;
     --nameCycleGap: 0.2s;
     --typeDur: 9s;
     --nameBaseFontSize: 200px;
